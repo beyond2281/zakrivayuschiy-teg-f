@@ -233,6 +233,7 @@
 }
 
 .like-icon {
+  display: block;
   width: 39px;
   height: 34px;
 }
@@ -321,10 +322,6 @@
   border-color: var(--theme-accent-color);
   outline-offset: -1px;
   transition: border 0.3s ease;
-}
-
-.like-icon {
-  display: block;
 }
 
 .sparks {
