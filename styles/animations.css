@@ -66,7 +66,7 @@
 
 .like-icon:active .core {
   fill: var(--fill-heart);
-  transition: fill 0.3s 0.03s linear;
+  transition: fill 0.3s linear;
 }
 
 .like-icon:active .main-body {
@@ -76,7 +76,7 @@
 
 .like-icon.is-liked .core {
   fill: var(--fill-heart);
-  transition: fill 0.3s 0.03s linear;
+  transition: fill 0.3s linear;
 }
 
 .like-icon.is-liked .main-body {
